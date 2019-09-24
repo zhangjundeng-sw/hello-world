@@ -1,8 +1,3 @@
-char * strcpy£¨char * des£¬const char * source£©
-{
-char * r = des; assert£¨£¨des£¡= NULL£©&&£¨Ô´£¡= NULL£©£©;
- while£¨£¨£¨* r ++ = * source ++£©£¡='\ 0'£©; 
- ·µ»Ødes£»
-}
+char * 
 ¡¡
  
